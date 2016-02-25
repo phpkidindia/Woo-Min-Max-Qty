@@ -1,0 +1,4 @@
+*** WC Minimum & Maximum Quantity  Changelog ***
+
+2016.02.24 - version 1.0.0
+ * First Release
